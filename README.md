@@ -1,5 +1,9 @@
-### Hi there 👋
-
+- 👋 Hi, I am @CaMr1sS
+- 👀 I am interested in coding and music
+- 🌱 I am currently an IT student in Riga
+- 💞️ I am looking to collaborate on game developement in the future
+- 📫 You can reach me on Discord at CaMr1sS#9879
+- ⚡ I really like to use dark humor and sarcasm a lot
 <!--
 **CaMr1sS/CaMr1sS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
