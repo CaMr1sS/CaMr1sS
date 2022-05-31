@@ -1,4 +1,4 @@
-- 👋 Hi, I am @CaMr1sS
+- 👋 Hi, I am @camr1ss
 - 👀 I am interested in coding and music
 - 🌱 I am currently an IT student in Riga
 - 💞️ I am looking to collaborate on game developement in the future
